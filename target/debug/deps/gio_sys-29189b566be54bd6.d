@@ -1,0 +1,6 @@
+/home/titan/cod/mem-board/target/debug/deps/gio_sys-29189b566be54bd6.d: /home/titan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gio-sys-0.22.9/src/lib.rs /home/titan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gio-sys-0.22.9/src/manual.rs
+
+/home/titan/cod/mem-board/target/debug/deps/libgio_sys-29189b566be54bd6.rmeta: /home/titan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gio-sys-0.22.9/src/lib.rs /home/titan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gio-sys-0.22.9/src/manual.rs
+
+/home/titan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gio-sys-0.22.9/src/lib.rs:
+/home/titan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gio-sys-0.22.9/src/manual.rs:

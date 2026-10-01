@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Mem Board
+Comment=Copy local image stickers to the clipboard
+Exec=mem-board
+Icon=image-x-generic
+Terminal=false
+Categories=Utility;Graphics;
+Keywords=stickers;clipboard;images;memes;
